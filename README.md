@@ -31,3 +31,5 @@ ColorMemo
 ┣━LICENSE
 ┗━README.md
 ```
+## 📷サンプル画像
+![画像](https://drive.google.com/uc?export=view&id=1uGxdpnmXoOhNBaLh1Stfwj0mjyo0DwsN)
